@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050567940345",
+    "firebase_url": "https://delta-compass-249500.firebaseio.com",
+    "project_id": "delta-compass-249500",
+    "storage_bucket": "delta-compass-249500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050567940345:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.myclearbin.ClearBin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050567940345-u9frf7lrsui0l5rlf59uve35h8eu1d02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myclearbin.ClearBin",
+            "certificate_hash": "511480024ff7aa6dabbf8f477f4ead0e5e3afa36"
+          }
+        },
+        {
+          "client_id": "1050567940345-n7bioed8eott7vorqrciaf49m2q46boc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mJ5VAGxD9YBUGHz-a2YgyAREPI-QoOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050567940345-n7bioed8eott7vorqrciaf49m2q46boc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
